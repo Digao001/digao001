@@ -16,9 +16,9 @@
 ###
 
 <br clear="both">
-# Olá, eu sou [Seu Nome] 👋
+# Olá, me chamo Rodrigo 👋
 
-Sou [sua profissão ou área de atuação] apaixonado por [algo que você gosta de fazer].
+Apaixonado por programação
 
 ## 📱 Conecte-se comigo
 
