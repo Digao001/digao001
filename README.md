@@ -1,3 +1,7 @@
+
+| ![Seu Texto](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Rodrigo&fontSize=70) |
+| :--: |
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
   <img width="12" />
@@ -20,7 +24,7 @@
 
 <div align="center">
 <h1># Olá, me chamo Rodrigo 👋</h1>
-##
+
 <h2>Apaixonado por programação</h2>
 
 ## 📱 Conecte-se comigo
