@@ -17,7 +17,7 @@
 
 ###
 <div align="center">
-  <img src="https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d520864d0621a4e7c745912b001c459e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=f236b54f&x-expires=1746738000&x-signature=6qm3FdsyCviz5FcgaMHeWGKJstE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva" height="200px"/>
+  <img src="https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d520864d0621a4e7c745912b001c459e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=f236b54f&x-expires=1746738000&x-signature=6qm3FdsyCviz5FcgaMHeWGKJstE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva" height="400px"/>
 </div>
 # Olá, me chamo Rodrigo 👋
 
