@@ -21,6 +21,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Digao001/Digao001/output/snake.svg" alt="Snake animation" />
-
-###
