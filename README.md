@@ -15,7 +15,6 @@
 
 ###
 
-<br clear="both">
 # Olá, me chamo Rodrigo 👋
 
 Apaixonado por programação
