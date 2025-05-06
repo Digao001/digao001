@@ -19,9 +19,9 @@
 
 
 <div align="center">
-# Olá, me chamo Rodrigo 👋
+<h1># Olá, me chamo Rodrigo 👋</h1>
 
-Apaixonado por programação
+<h2>Apaixonado por programação</h2>
 
 ## 📱 Conecte-se comigo
 
