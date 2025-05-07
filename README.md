@@ -14,10 +14,6 @@
 </div>
 
 <div align="center">
-  <img src="https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d520864d0621a4e7c745912b001c459e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=f236b54f&x-expires=1746738000&x-signature=6qm3FdsyCviz5FcgaMHeWGKJstE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva" height="400px"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Digao001&show_icons=true&theme=dark&cache_seconds=1800" height="160" />
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Digao001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&random=12345" height="160" alt="languages graph" />
