@@ -27,8 +27,6 @@
 <div align="center">
 <h1># Olá, me chamo Rodrigo 👋</h1>
 
-<h2>Apaixonado por programação</h2>
-
 ## 📱 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
