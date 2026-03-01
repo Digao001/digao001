@@ -17,11 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="Mysql logo" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digao001&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao001&layout=compact&theme=radical&include_all_commits=true&count_private=true" height="160"/>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digao001&theme=radical" />
 
 
 <div align="center">
