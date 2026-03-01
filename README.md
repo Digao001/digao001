@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="Mysql logo" />
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digao001&theme=radical" align = "center"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digao001&theme=radical" margin = "auto"/>
 
 
 <div align="center">
