@@ -18,9 +18,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digao001&show_icons=true&theme=dark&cache_seconds=1800" height="160" />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao001&layout=compact&theme=dark&cache_seconds=30" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Digao001&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao001&layout=compact&theme=radical&include_all_commits=true&count_private=true" height="160"/>
 </div>
 
 
